@@ -221,6 +221,8 @@ r/ApplyingToCollege
 r/AMA
 r/murderedbywords
 r/Idubbbz
+r/JusticeServed
+r/justiceservedgold
 r/hellllllllacool
 r/reddeadredemption
 r/ComedyCemetery
@@ -544,6 +546,7 @@ r/xboxone
 r/StreetFighter
 r/kappa
 r/shittyconspiracy
+r/justiceservedpure
 r/Windows10
 r/linuxmasterrace
 r/FinancialCareers
